@@ -1,0 +1,12 @@
+<config>
+	<dir>C:\wamp64\www\third-party\hadson\erpadvV2\downloadFiles\teste</dir>
+	<file_prefix>current_date</file_prefix>
+	<server>localhost</server>
+	<bd>projetoadvocacia2.1</bd>
+	<user>root</user>
+	<pass></pass>
+	<port>3306</port>
+	<ftp>To be implemented...</ftp>
+	<sftp>To be implemented...</sftp>
+</config>
+
